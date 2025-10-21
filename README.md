@@ -5,7 +5,7 @@ Hey! Welcome to **J-Street**, a basic landing page built with **React.js** and *
 ## About 
 J-Street is a simple landing page made with React.js and Vite. It’s easy to set up, tweak, and use—great for showcasing stuff or experimenting with a frontend.
 
-## Features
+## Features 
 - **Fast**: Vite’s quick builds and dev server.
 - **Responsive**: Works on all screen sizes.
 - **Modular**: React components for easy changes.
